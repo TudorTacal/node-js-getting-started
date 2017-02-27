@@ -48,15 +48,15 @@ html {
   font-size: 1.5em;
 }
 
-a:link {
-  text-decoration: none;
-  color: black;
-}
 a:hover {
-  color: 4099FF;
+  color: #4099FF;
 }
 a:visited {
-  color: 4099FF;
+  color: #4099FF;
+}
+a:link {
+  text-decoration: none ;
+  color: #000;
 }
 
 .github {
