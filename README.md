@@ -1,1 +1,3 @@
-My website backed by a NodeJs server.
+## Tudor's Website.
+### NodeJs server
+### Deployed on Heroku
